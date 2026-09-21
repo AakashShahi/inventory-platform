@@ -14,6 +14,8 @@ Build independent capability across programming fundamentals (DSA), backend engi
 
 - **Day 2:** VS Code environment configured for Python + Java; known limitation documented (Java extension Run/Debug fails on unmanaged/loose .java files without a Maven project — resolves once Spring Boot project exists).
 
+- **Day 3:** Learning Git fundamentals — working tree, staging, commits, branches, and pull requests.
+
 ## Technology Tracks
 
 This project has two deliberately separate backend implementations of the same domain:
