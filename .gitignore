@@ -1,6 +1,26 @@
 # Compiled Java class files
 *.class
 
+# Java/Maven build output
+target/
+
 # Python cache
 __pycache__/
 *.pyc
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secret files — NEVER commit real secrets
+.env
+.env.*
+
+# IDE-specific (non-shared) files
+*.iml
+.idea/
+
+# OS-generated files
+Thumbs.db
+.DS_Store
